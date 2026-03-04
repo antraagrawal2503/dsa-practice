@@ -1,42 +1,37 @@
 <div align="center">
 
-### ✨ DSA Practice (Java)
-
-<sub>
-A tiny, structured collection of my Data Structures & Algorithms solutions in Java — clean, readable, and organized by pattern.
-</sub>
+<b>DSA Practice (Java)</b><br>
+<sub>little dsa diary — neat Java solutions, organised by pattern ✨</sub>
 
 </div>
 
 ---
 
-#### 📁 Structure
-- `arrays/`
-- `strings/`
-- `stacks/`
+<b>folders</b><br>
+<sub>
+• <code>arrays/</code> &nbsp; • <code>strings/</code> &nbsp; • <code>stacks/</code>
+</sub>
 
 ---
 
-#### ✅ Problems
-**Arrays**
-- ✅ Two Sum
-- ✅ Contains Duplicate
-
-**Strings**
-- ✅ Valid Anagram
-
-**Stacks**
-- ✅ Valid Parentheses
+<b>done so far</b><br>
+<sub>
+arrays: <code>TwoSum.java</code>, <code>ContainsDuplicate.java</code><br>
+strings: <code>ValidAnagram.java</code><br>
+stacks: <code>ValidParentheses.java</code>
+</sub>
 
 ---
 
-#### 🎯 Goals
-- Build strong DSA fundamentals  
-- Practice time/space complexity thinking  
-- Write clean, consistent Java solutions  
+<b>goals</b><br>
+<sub>
+• stronger problem-solving<br>
+• better time/space complexity intuition<br>
+• clean, consistent Java code
+</sub>
 
----
+<br>
 
 <div align="center">
-<sub>🌷 Made with patience + practice.</sub>
+<sub>🌷 made with patience + practice.</sub>
 </div>
