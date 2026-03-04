@@ -1,18 +1,42 @@
-# DSA Practice (Java)
+<div align="center">
 
-A structured collection of my Data Structures & Algorithms solutions implemented in Java.
+### ✨ DSA Practice (Java)
 
-## Structure
-- arrays/
-- strings/
-- two-pointers/
-- hashing/
-- sliding-window/
+<sub>
+A tiny, structured collection of my Data Structures & Algorithms solutions in Java — clean, readable, and organized by pattern.
+</sub>
 
-## Goals
-- Strengthen problem-solving skills
-- Practice time & space complexity analysis
-- Write clean, structured Java code
+</div>
 
-## Progress
-- Arrays: ✅ Two Sum
+---
+
+#### 📁 Structure
+- `arrays/`
+- `strings/`
+- `stacks/`
+
+---
+
+#### ✅ Problems
+**Arrays**
+- ✅ Two Sum
+- ✅ Contains Duplicate
+
+**Strings**
+- ✅ Valid Anagram
+
+**Stacks**
+- ✅ Valid Parentheses
+
+---
+
+#### 🎯 Goals
+- Build strong DSA fundamentals  
+- Practice time/space complexity thinking  
+- Write clean, consistent Java solutions  
+
+---
+
+<div align="center">
+<sub>🌷 Made with patience + practice.</sub>
+</div>
